@@ -15,7 +15,7 @@ Naukę zaczynamy od poznania interpretera. Interpreter uruchamiamy z konsoli pol
 
 .. code:: bash
 
-    $ python
+    ~$ python
 
 Po uruchomieniu interpretera komputer powinien wypisać trzy linie tekstu a w czwartej tak zwany
 znak zachęty, po którym wpisujemy komendy. Standardowym znakiem zachęty w interpreterze
