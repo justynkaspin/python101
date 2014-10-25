@@ -314,7 +314,7 @@ Zobaczmy działanie pętli ``while`` na poniższym przykładzie.
     import random
     dana = random.choice(range(10))
     kontynuuj = True
-    while koniec:
+    while kontynnuj == True:
         strzal = int(raw_input("Wpisz liczbę całkowitą"))
         if strzal == dana:
             print("Gratulacje! Zgadłeś")
